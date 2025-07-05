@@ -17,7 +17,7 @@ require 'auth_check.php'; // Proteksi halaman, pastikan user sudah login
 <body class="main-bg">
     <div class="main-wrapper">
         <?php include 'templates/header.php'; // Memasukkan header yang sudah diperbaiki ?>
-
+<img src="" alt="">
         <div class="dashboard-container">
             <div class="module-grid">
                 <!-- Tombol Production -->
