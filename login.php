@@ -29,6 +29,7 @@ if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] === true) {
             <input type="password" name="password" placeholder="Password" required>
             <button type="submit" class="btn">Sign In</button>
         </form>
+        <img src="jawaanjing" alt="">
         <?php
         // Tampilkan pesan error jika ada
         if (isset($_GET['error']) && $_GET['error'] == 1) {
