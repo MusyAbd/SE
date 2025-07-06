@@ -1,6 +1,7 @@
 <?php
 // BAGIAN: PRODUCTION.PHP
 // Halaman selamat datang untuk modul Produksi.
+// Production 1231231231312
 
 require 'config/koneksi.php';
 require 'auth_check.php'; // Proteksi halaman
