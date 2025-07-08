@@ -5,7 +5,7 @@ HAPUS baris session_start(); dari file ini jika ada.
 File ini HANYA untuk koneksi database.
 */
 
-$host = "localhost";
+$host = "localhost:3306";
 $db_user = "root";
 $db_pass = "";
 $db_name = "db_petro"; // Ganti dengan nama database Anda
