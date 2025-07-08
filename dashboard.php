@@ -36,7 +36,7 @@ require 'auth_check.php'; // Proteksi halaman, pastikan user sudah login
                     <h3>Finance</h3>
                 </a>
                 <!-- Tombol Sales & Marketing -->
-                <a href="salesv1.html" class="module-card">
+                <a href="sales.php" class="module-card">
                     <img src="https://png.pngtree.com/png-vector/20230428/ourmid/pngtree-sales-marketing-line-icon-vector-png-image_6738523.png" alt="Ikon Penjualan" class="module-icon-img">
                     <h3>Sales Marketing</h3>
                 </a>
